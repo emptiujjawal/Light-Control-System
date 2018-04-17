@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "232114296651",
+    "firebase_url": "https://light-control-system.firebaseio.com",
+    "project_id": "light-control-system",
+    "storage_bucket": "light-control-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232114296651:android:b120c3ff9e256652",
+        "android_client_info": {
+          "package_name": "com.example.empti.lightcontrolsystemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232114296651-lse5u7p9lmh92miadtcvsbfncdkalmsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empti.lightcontrolsystemapp",
+            "certificate_hash": "8db047dbac8d3d37db0d36c2402519408dea8575"
+          }
+        },
+        {
+          "client_id": "232114296651-aq94a58od8n769p7k679c3kgtqe1gium.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOsr6zVlyne5bbWskDC_DKILi7eTQ7HrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232114296651-aq94a58od8n769p7k679c3kgtqe1gium.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
